@@ -34,11 +34,6 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/dictionaries
-.idea/libraries
 .idea/*
 
 # Keystore files
@@ -56,7 +51,8 @@ freeline.py
 freeline/
 freeline_project_description.json
 
-app/release/*
 gradle/*
 libs/
 release/
+.idea/
+gradle/
